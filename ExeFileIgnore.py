@@ -20,4 +20,5 @@ for toBeWritten in os.listdir(deez + "\\"):
 ############################################
 fileToEdit = open(filePath)
 contentOfFile = fileToEdit.read()
+print(contentOfFile)
 fileToEdit.close()

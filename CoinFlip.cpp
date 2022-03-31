@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <ctime>
 #include <string>
-#include <
 
 inline void wait_on_enter()
 {
